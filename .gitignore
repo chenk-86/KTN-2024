@@ -1,0 +1,10 @@
+# Bỏ qua file tạm của LaTeX
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.blg
+*.bbl
